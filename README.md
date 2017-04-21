@@ -2,6 +2,8 @@
 
 This project was generated with [universal-cli](https://github.com/devCrossNet/universal-cli) version 1.0.0-alpha.universal.3.
 
+NOTE: this version doesn't support AoT, most likely won't work with module lib
+
 ## to start
 
 Run `npm install` then
